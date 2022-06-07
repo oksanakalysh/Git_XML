@@ -1,5 +1,7 @@
-ksana Kalysh
-35 y.
-0 pets
-1000$
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Age>35</Age>
+   <Name>Oksana Kalysh</Name>
+   <Pets>No pet</Pets>
+   <Salary>1000$</Salary>
+</root>
