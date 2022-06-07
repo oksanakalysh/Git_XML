@@ -1,8 +1,11 @@
-Name/ID
-Summary
-Visual proof
-Environment
-Source URL
-Console logs
-Steps to reproduce
-Expected vs. actual results
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <1>Name/ID</1>
+  <2>Summary</2>
+  <3>Visual proof</3>
+  <4>Environment</4>
+  <5>Source URL</5>
+  <6>Console logs</6>
+  <7>Steps to reproduce</7>
+  <8>Expected vs. actual results</8>
+</root>
